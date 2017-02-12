@@ -24,5 +24,5 @@ self-explanatory)
      load_logs.php
 1. In RDLibrary. create a new Macro Cart with the following lines:
     PM 2!
-	LL 1 ADS 1!
+	LL 1 ADS 0!
 1. On the Sound Panel in RDAirPlay, add a new button referencing the macro cart you just created.
