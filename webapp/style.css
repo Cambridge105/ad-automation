@@ -1,0 +1,9 @@
+body {background-color:#fff; border-right:3px solid #aaa; border-bottom:3px solid #acacac; font-family:Arial,sans-serif; font-size:14pt; padding:0;}
+div#titleBlock {background-color:#000; min-height:200px; border-bottom:5px solid #acacac; padding:none; margin:none;}
+div#nav {text-align:right; padding-right:10px; color:#ccc; font-size:10pt;}
+div#nav a {color:#ccc;}
+div#pageTitle {padding-left:30px; color:#fff; font-size:28pt; font-weight:bold; font-style:italic;}
+div#mainBody {padding:20px;}
+table.adTable {border:1px solid black; padding:10px; width:750px; margin:10px;}
+label {  display: inline-block; width: 340px; text-align: right;}
+
